@@ -11,6 +11,7 @@
 
 - ✔️ learnt Python
 - ✖️ currently learning R
+- ✖️ currently learning SQL
 - ❌ PHP (planned)
 - ❌ C# (planned)
 - ❌ JavaScript (planned)
