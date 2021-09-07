@@ -9,8 +9,8 @@
 
 ## 🎯 Learning Progress #
 
-- ✔️ learnt Python
-- ✖️ currently learning R
+- ✔️ Python (basics)
+- ✔️ R (basics)
 - ✖️ currently learning SQL
 - ❌ PHP (planned)
 - ❌ C# (planned)
