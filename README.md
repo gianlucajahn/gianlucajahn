@@ -2,7 +2,7 @@
 
 - ✌️  Hey, I’m Gianluca Jahn.
 - 📚 Studying various programming languages.
-- 🌱 I’m currently learning "R".
+- 🌱 I’m currently learning "SQL".
 - 🏹 I’m looking to publish my first project in Machine Learning.
 - 🧬 Head Developer on a public community server. 
 - 🎤 Community Leader for 1.000+ members.
