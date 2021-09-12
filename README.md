@@ -18,7 +18,6 @@
 
 ## 🛠 Projects #
 
-- 🔧 currently working on a project in Data Collection
 - 🔧 currently working on my first project in Machine Learning
 
 ## 💼 Work #
