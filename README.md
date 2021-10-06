@@ -3,7 +3,7 @@
 - ✌️  Hey, I’m Gianluca Jahn.
 - 📚 Studying various programming languages.
 - 🌱 I’m currently learning "CSS".
-- 🏹 I’m looking to publish my first project in Machine Learning.
+- 🏹 I’m interested in Software Development & Machine Learning
 - 🧬 Head Developer on a public community server. 
 - 🎤 Community Leader for 1.000+ members.
 
