@@ -17,7 +17,7 @@
 
 ## 🛠 Projects #
 
-- 🔧 currently working on my first project in Machine Learning
+- 🔧 currently working through the curriculum of "The Odin Project"
 
 ## 💼 Work #
 
