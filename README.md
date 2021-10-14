@@ -12,8 +12,8 @@
 - ✔️ Python (basics)
 - ✔️ R (basics)
 - ✔️ HTML
-- ✖️ currently learning CSS
-- ❌ JavaScript (planned)
+- ✔️ CSS
+- ✖️ currently learning: JavaScript 
 
 ## 🛠 Projects #
 
