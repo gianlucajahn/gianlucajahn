@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me #
 
 - ✌️  Hey, I’m Gianluca Jahn.
-- 📚 aspiring (to-be) software engineer
+- 📚 Aspiring (to-be) software engineer
 - 🌱 I’m currently learning "Javascript".
 - 🏹 I’m interested in Software Development & Machine Learning
 - 🧬 Head Developer on a public community server. 
