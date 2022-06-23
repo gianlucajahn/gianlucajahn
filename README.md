@@ -1,22 +1,16 @@
 ## 👨‍💻 About Me #
+Hey, I’m Gianluca Jahn. I'm from Germany. I'm currently learning front-end development. I started out learning HTML, CSS and JavaScript and I am currently learning React. You can find previous projects of mine under the "Repositories" tab and you'll be able to find all of my future projects there, either. Feel free to follow me or reach out to me regarding questions, feedback, criticism (which is much appreciated), job offers or quiet literally *anything* else. 
 
-- ✌️  Hey, I’m Gianluca Jahn.
-- 📚 Aspiring (to-be) software engineer
-- 🌱 I’m currently learning "Javascript".
-- 🏹 I’m interested in Software Development & Machine Learning
-- 🧬 Head Developer on a public community server. 
-- 🎤 Community Leader for 1.000+ members.
-
-## 🎯 Learning Progress #
-
-- ✔️ Python (basics)
-- ✔️ R (basics)
-- ✔️ HTML
-- ✔️ CSS
-- ✖️ currently learning: JavaScript 
+## My Tech Stack
+- HTML / CSS
+- JavaScript
+- React / React Redux
+- Node.js
+- Photoshop
+- Figma 
 
 ## 🛠 Projects #
 
-- 🔧 currently working through the curriculum of "The Odin Project"
+- 🔧 Currently working on an e-commerce store with React!
 
 [![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlucajahn)](https://github.com/gianlucajahn/github-readme-stats)
