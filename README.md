@@ -14,4 +14,4 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
 🔧 Currently working on an e-commerce store with React!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlucajahn)](https://github.com/gianlucajahn/github-readme-stats)
-[![My most used languages](https://github-readme-stats.vercel.app/api?username=gianlucajahn)](https://github.com/gianlucajahn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucajahn)](https://github.com/anuraghazra/github-readme-stats)
