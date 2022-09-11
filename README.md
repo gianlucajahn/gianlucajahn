@@ -15,5 +15,5 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
 🔧 Currently working on a Reddit clone with React Typescript and SCSS/SASS!
 
 [![My most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucajahn)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlucajahn)](https://github.com/gianlucajahn/github-readme-stats | height=500px)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gianlucajahn | height=500px)](https://github.com/gianlucajahn/github-readme-stats)
 
