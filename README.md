@@ -3,12 +3,11 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
 
 ## 🖥 My Tech Stack
 - ⚛️ React
-- JavaScript
-- TypeScript
-- CSS / SASS / SCSS
+- JavaScript & TypeScript
+- CSS & SASS / SCSS
 - Node.js
 - Git
-- Photoshop / Figma
+- Photoshop & Figma
 
 ## 🛠 Projects #
 
