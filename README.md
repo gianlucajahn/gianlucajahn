@@ -47,6 +47,10 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.framer.com/motion/">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gianlucajahn" />
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=gianluca.jahn98@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=gianluca.jahn98@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
