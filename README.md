@@ -20,6 +20,6 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianlucajahn&repo=react-ecommerce-store" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianlucajahn&repo=typescript-reddit-clone" />
+
 </a>
 
