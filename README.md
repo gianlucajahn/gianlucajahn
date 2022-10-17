@@ -42,3 +42,7 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=gianluca.jahn98@gmail.com&su=Ihr+Anliegen&body=Ihre+Nachricht+an+mich&tf=cm">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<a href="https://www.framer.com/motion/">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgianlucajahn1212%2Fhit-counter" />
+</a>
