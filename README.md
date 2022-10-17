@@ -18,4 +18,7 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gianlucajahn&repo=react-ecommerce-store" />
 </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianlucajahn&layout=compact" />
+</a>
 
