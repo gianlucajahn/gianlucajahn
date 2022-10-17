@@ -35,7 +35,7 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
-## My projects
+## My development stats
 
 🔧 Currently working on a Reddit clone with React Typescript and SCSS/SASS!
 
