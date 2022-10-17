@@ -3,20 +3,20 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
 
 ## 🖥 My Tech Stack
 
-<a href="https://de.wikipedia.org/wiki/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<a href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
 <a href="https://www.typescriptlang.org/">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 
-<a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<a href="https://de.wikipedia.org/wiki/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
 
-<a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<a href="https://sass-lang.com/">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>
 
 <a href="https://getbootstrap.com/">
