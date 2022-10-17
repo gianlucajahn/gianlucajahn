@@ -31,6 +31,14 @@ Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information S
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 </a>
 
+<a href="https://www.framer.com/motion/">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+
+<a href="https://www.framer.com/motion/">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</a>
+
 ## 🛠 Projects #
 
 🔧 Currently working on a Reddit clone with React Typescript and SCSS/SASS!
