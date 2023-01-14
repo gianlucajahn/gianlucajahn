@@ -1,5 +1,5 @@
 ## My portfolio
-<a href="https://www.gianluca-jahn.de">My portfolio website</a>
+🖥 <a href="https://www.gianluca-jahn.de">My portfolio website</a>
 
 ## About Me 
 Hey, I’m Gianluca Jahn. I'm from Germany. I am studying Business Information Systems (Wirtschaftsinformatik) and I'm a self-taught front-end developer. I started out learning HTML, CSS and JavaScript, taught myself TypeScript and React and I am currently learning Redux. You can find my most noteworthy projects below in the "Pinned" section. Feel free to follow me or reach out to me regarding questions, feedback, criticism (which is much appreciated), job offers or quite literally *anything* else. 
