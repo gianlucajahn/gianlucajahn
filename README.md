@@ -51,3 +51,5 @@ Hey, I’m Gianluca Jahn. I'm from Germany and I'm a self-taught developer. I us
 <a href="https://discordapp.com/users/556559991062921217">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
