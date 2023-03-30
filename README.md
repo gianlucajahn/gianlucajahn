@@ -8,6 +8,10 @@ Hey, I’m Gianluca Jahn. I'm from Germany and I'm a self-taught developer. I us
 
 ## My Tech Stack
 
+<a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+</a>
+
 <a href="https://reactjs.org/">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
@@ -34,10 +38,6 @@ Hey, I’m Gianluca Jahn. I'm from Germany and I'm a self-taught developer. I us
 
 <a href="https://jestjs.io/">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-</a>
-
-<a href="https://www.figma.com/">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
 ## Getting in touch
