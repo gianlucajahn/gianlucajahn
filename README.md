@@ -24,12 +24,12 @@ Hey, I’m Gianluca Jahn. I'm from Germany and I'm a self-taught developer. I us
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>
 
-<a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </a>
 
-<a href="https://getbootstrap.com/">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<a href="https://sass-lang.com/">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </a>
 
 <a href="https://www.npmjs.com/">
