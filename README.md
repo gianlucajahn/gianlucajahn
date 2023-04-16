@@ -2,7 +2,7 @@
 
 ## My portfolio
 🖥 <a href="https://www.gianluca-jahn.de">My portfolio website</a> <br />
-🤝🏻<a href="https://www.linkedin.com/in/gianlucajahn/">My LinkedIn Profile</a>
+🤝🏻 <a href="https://www.linkedin.com/in/gianlucajahn/">My LinkedIn Profile</a>
 
 ## About Me 
 Hey, I’m Gianluca. I'm from Germany and I'm a self-taught developer. I usually work with React and TypeScript in Next.js but have found some interest in DevOps recently. I'm a huge enthusiast of spacetravel and aerospace engineering, which is why I host my own [guide to the galaxy](https://guidetothegalaxy.vercel.app)! Feel free to follow me or reach out to me regarding questions, feedback, criticism or quite literally *anything* else. 
