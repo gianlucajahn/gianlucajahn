@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=gianlucajahn&color=blue)
 
 ## My portfolio
-🖥 <a href="https://www.gianluca-jahn.de">My portfolio website</a> <br />
+🖥 <a href="https://gianlucajahn.github.io/portfolio/">My portfolio website</a> <br />
 🤝🏻 <a href="https://www.linkedin.com/in/gianlucajahn/">My LinkedIn profile</a>
 
 ## About Me 
